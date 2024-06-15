@@ -11,6 +11,7 @@ body{
     align-items: center;
     padding: 20px;
 }
+
 nav{
     flex: 1;
     text-align:right;
@@ -807,4 +808,17 @@ body{
 .services-list div:hover{
     background: #EFBF38;
     transform: translateY(-10px);
+}
+/*------------- footer ---------*/
+
+.footer{
+    margin-top: 30px;
+    margin-right: 100px;
+    background-color: black;
+    background: #000;
+    padding-left: 700px;
+    padding-right: 300px;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
 }
